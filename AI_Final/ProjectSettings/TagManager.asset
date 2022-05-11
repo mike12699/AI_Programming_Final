@@ -6,6 +6,10 @@ TagManager:
   tags:
   - CinemachineTarget
   - enemy
+  - Police Car
+  - Jail
+  - WaitingArea
+  - Rest
   layers:
   - Default
   - TransparentFX
